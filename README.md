@@ -1,5 +1,5 @@
 # Mangrove Petengoran
-[Contoh Penggunaan](https://refrizar3003.github.io/mangrove-petengoran-virtual-reality-tour/assets/image/building-app-demo.gif)
+[Preview](https://refrizar3003.github.io/mangrove-petengoran-virtual-reality-tour/assets/image/building-app-demo.gif)
 
 <img src="https://refrizar3003.github.io/mangrove-petengoran-virtual-reality-tour/assets/image/basic-demo1.jpg" height=250><img src="https://refrizar3003.github.io/mangrove-petengoran-virtual-reality-tour/assets/image/basic-demo2.jpg" height=250><img src="https://refrizar3003.github.io/mangrove-petengoran-virtual-reality-tour" height=250><img src="https://refrizar3003.github.io/mangrove-petengoran-virtual-reality-tour/assets/image/basic-demo4.jpg" height=250>
 
